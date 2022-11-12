@@ -12,6 +12,10 @@ Invite the bot here! - https://discord.com/api/oauth2/authorize?client_id=985005
 
 Update Log 
 
-1.0 - Bot Creation  
+1.0 - Bot creation  
 
-1.1 - Added Echo Command
+1.1 - Added echo command
+
+1.2 - Fixes, new commands: stats, revive
+
+1.3 - Critical bug fix
