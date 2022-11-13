@@ -19,3 +19,5 @@ Update Log
 1.2 - Fixes, new commands: stats, revive
 
 1.3 - Critical bug fix
+
+1.4-PRE - New Command: Specs
