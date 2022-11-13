@@ -7,7 +7,9 @@ check out novus bot's source code (the bot i based this off of) https://github.c
 (Code has been moved into releases!)
 
 
-Invite the bot here! - https://discord.com/api/oauth2/authorize?client_id=985005300346150943&permissions=8&scope=bot%20applications.commands
+
+dont want to self host?
+Invite China Bot here! - https://discord.com/api/oauth2/authorize?client_id=985005300346150943&permissions=8&scope=bot%20applications.commands
 --------
 
 Update Log 
@@ -21,3 +23,5 @@ Update Log
 1.3 - Critical bug fix
 
 1.4-PRE - New Command: Specs
+
+1.4 - New command, Specs, slightly updated stats command, updated tomb command (was rip)
