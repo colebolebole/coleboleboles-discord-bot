@@ -14,7 +14,7 @@ Invite China Bot here! - https://discord.com/api/oauth2/authorize?client_id=9850
 _the bot running on a 1gb ram vm, thats all you need to run our bot!_
 ![image](https://user-images.githubusercontent.com/88512222/201854589-76cbc92c-bdde-452b-a61c-054ce4ec2112.png)
 
---
+----
 
 Update Log 
 
