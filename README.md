@@ -11,6 +11,10 @@ check out novus bot's source code (the bot i based this off of) https://github.c
 dont want to self host?
 Invite China Bot here! - https://discord.com/api/oauth2/authorize?client_id=985005300346150943&permissions=8&scope=bot%20applications.commands
 --------
+_the bot running on a 1gb ram vm, thats all you need to run our bot!
+![image](https://user-images.githubusercontent.com/88512222/201854589-76cbc92c-bdde-452b-a61c-054ce4ec2112.png)
+
+
 
 Update Log 
 
