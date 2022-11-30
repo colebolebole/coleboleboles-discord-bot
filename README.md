@@ -19,7 +19,7 @@ https://discord.com/oauth2/authorize?client_id=1047300005565829242&permissions=8
 _the program running on a 1gb ram vm, thats all you need to run our bot!, pretty much any computer can do so!_
 ![image](https://user-images.githubusercontent.com/88512222/201854589-76cbc92c-bdde-452b-a61c-054ce4ec2112.png)
 
-_super optimized as well, avereging 20-30 mb ram! -_
+_super optimized as well, averaging 20-30 mb ram! -_
 ![VirtualBoxVM_9W1gUO5Qyv](https://user-images.githubusercontent.com/88512222/201855575-e7e91999-f218-4fed-a074-39becd9d15a4.png)
 
 ----
