@@ -9,10 +9,11 @@ check out novus bot's source code (the bot i based this off of) https://github.c
 
 
 _dont want to self host?_
+--
 Invite China Bot here! - https://discord.com/api/oauth2/authorize?client_id=985005300346150943&permissions=8&scope=bot%20applications.commands
 
 _china bot classic_
-
+--
 https://discord.com/oauth2/authorize?client_id=1047300005565829242&permissions=8&scope=bot%20applications.commands
 ----
 _the program running on a 1gb ram vm, thats all you need to run our bot!, pretty much any computer can do so!_
