@@ -37,3 +37,7 @@ Update Log
 1.4-PRE - New Command: Specs
 
 1.4 - New command, Specs, slightly updated stats command, updated tomb command (was rip)
+
+1.4-V2 - Start Script
+
+1.5 - Prerequisites prepackaged!
