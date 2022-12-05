@@ -3,10 +3,13 @@ so this is my 1st ever bot ive made pretty much(besides Xacto Bot, my 1st bot i 
 check out novus bot's source code (the bot i based this off of) https://github.com/novusthedev/novus-bot
 (also huge shoutout to him for making my bot possible, and also developing commands for my bot:D)
 
+--
+
 _Replit template now availible!(note prerequisites are not installed!)_
 
 https://replit.com/@colebolebole/Coleboleboles-Discord-Bot
 
+--
 
 (Code has been moved into releases!)
 
