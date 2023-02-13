@@ -4,7 +4,7 @@ check out novus bot's source code (the bot i based this off of) https://github.c
 (also huge shoutout to him for making my bot possible, and also developing commands for my bot:D)
 --
 
-_Replit template now available!(note prerequisites are not installed!)_
+_Replit template now available!(prerequisite installer now packaged!)_
 
 https://replit.com/@colebolebole/Coleboleboles-Discord-Bot?v=1
 --
