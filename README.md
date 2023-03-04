@@ -9,8 +9,6 @@ _Replit template now available!(prerequisite installer now packaged!)_
 https://replit.com/@colebolebole/Coleboleboles-Discord-Bot?v=1
 --
 
-(Code has been moved into releases!)
-
 
 
 _dont want to self host?_
