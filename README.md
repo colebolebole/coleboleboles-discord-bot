@@ -44,3 +44,5 @@ Update Log
 1.4-V2 - Start Script
 
 1.5 - Prerequisites prepackaged!
+
+1.6 - New feature - Prerequisite installer
