@@ -1,4 +1,4 @@
-# Basically deperacated at this point, however working on updating!
+# Basically depericated at this point, however working on updating!
 
 (so this is my 1st ever bot ive made pretty much (besides Xacto Bot, my 1st bot i worked on)
 
