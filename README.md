@@ -10,9 +10,9 @@ check out novus bot's source code (the bot i based this off of) https://github.c
 
 _dont want to self host?_
 
-China Bot: ```https://discord.com/api/oauth2/authorize?client_id=985005300346150943&permissions=8&scope=bot%20applications.commands```
+China Bot: ```https://discord.com/oauth2/authorize?client_id=985005300346150943```
 
-China Bot Classic:```https://discord.com/oauth2/authorize?client_id=1047300005565829242&permissions=8&scope=bot%20applications.commands```
+China Bot Classic:```https://discord.com/oauth2/authorize?client_id=1047300005565829242```
 
 ---
 
