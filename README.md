@@ -44,3 +44,5 @@ Update Log
 1.5 - Prerequisites prepackaged!
 
 1.6 - New feature - Prerequisite installer
+
+V2 1.0 - Complete bot rewrite, massive stability improvements and more!
