@@ -1,0 +1,1 @@
+npm i discord.js@v14 discord-api-types plist os-utils
