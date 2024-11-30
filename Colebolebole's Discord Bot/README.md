@@ -1,47 +1,48 @@
-<h1>Welcome to the Climatic offical GitHub repo!</h1>
-<p>&nbsp;</p>
-<p>Invite Here!</p>
-<p>https://discordapp.com/oauth2/authorize?client_id=800804397415530576<p>
-<p>&nbsp;</p>
-<h2>How to Set Up</h2>
-<p>Do you want to setup your own Climatic instance? Then follow this quick guide on how to set it all up!</p>
-<h3>you'll need the following items:</h3>
-<ul>
-<li>discord.js v14</li>
-<li>Any IDE with terminal or just a terminal</li>
-<li>The latest release of node.js (recommended v22)</li>
-<li>a bot created from Discord's Developer Portal</li>
-</ul>
-<h3>Setting up the bot before starting it up</h3>
-<ol>
-<li>open the terminal</li>
-<li>go to the bot's directory</li>
-<li>
-<blockquote>now install the following packages by running: <code>npm i discord.js@v14 discord-api-types plist os-utils</code></blockquote>
-</li>
-<li>click "Make sure theres no errors occuring while installation."</li>
-<li>go to the discord developer portal and select a bot</li>
-<li>go to the bots section and click "Copy Token"</li>
-<li>then create a token.json file in the conf directory.</li>
-<li>Insert the following into the token.json file and save:
-<div style="color: #6688cc; background-color: #000c18; font-family: 'Droid Sans Mono', 'monospace', monospace; font-weight: normal; font-size: 14px; line-height: 19px; white-space: pre;" data-darkreader-inline-color="" data-darkreader-inline-bgcolor="">
-<div><span style="color: #6688cc;" data-darkreader-inline-color="">{</span></div>
-<div><span style="color: #9966b8; font-style: italic;" data-darkreader-inline-color="">"token"</span><span style="color: #6688cc;" data-darkreader-inline-color="">: </span><span style="color: #22aa44;" data-darkreader-inline-color="">"token"</span></div>
-<div><span style="color: #6688cc;" data-darkreader-inline-color="">}</span></div>
-</div>
-</li>
-<li>Another required step is to edit the clientId.json file and replace the default bot id with your own bot's id. If you don't slash (/) commands wont work.<li>
-<li>After that your done with setup! You can edit the source code after that or you can go on to the next step to start the bot itself.</li>
-</ol>
-<h3>Starting the bot</h3>
-<ol>
-<li>If you haven't opened the terminal or closed it, reopen it</li>
-<li>type in node index</li>
-<li>wait a second</li>
-</ol>
-<p>If the commands sync, setup is finished!</p>
-<p>If you see an error and the bot shutting down, please check the token in conf/token.json. if you put the token in and you still receive an error. please check all the packages.</p>
-<p>&nbsp;</p>
-<p><strong>Keep the terminal open where Climatic is running from. to safely shut down the bot, type `exit`.</strong></p>
-<p>&nbsp;</p>
-<p>And that's all for the Climatic setup! Hope this helps!</p>
+# Basically depericated at this point, however working on updating!
+
+(so this is my 1st ever bot ive made pretty much (besides Xacto Bot, my 1st bot i worked on)
+
+check out novus bot's source code (the bot i based this off of) https://github.com/novusthedev/novus-bot
+(also huge shoutout to him for making my bot possible, and also developing commands for my bot:D)
+
+---
+
+
+_dont want to self host?_
+
+China Bot: ```https://discord.com/oauth2/authorize?client_id=985005300346150943```
+
+China Bot Classic:```https://discord.com/oauth2/authorize?client_id=1047300005565829242```
+
+---
+
+
+the bot running on a 1gb ram vm, thats all you need to run our bot!, pretty much any computer can do so!_
+![image](https://user-images.githubusercontent.com/88512222/201854589-76cbc92c-bdde-452b-a61c-054ce4ec2112.png)
+
+super optimized as well, averaging 20-30 mb ram!
+![VirtualBoxVM_9W1gUO5Qyv](https://user-images.githubusercontent.com/88512222/201855575-e7e91999-f218-4fed-a074-39becd9d15a4.png)
+
+---
+
+Update Log 
+
+1.0 - Bot creation  
+
+1.1 - Added echo command
+
+1.2 - Fixes, new commands: stats, revive
+
+1.3 - Critical bug fix
+
+1.4-PRE - New Command: Specs
+
+1.4 - New command, Specs, slightly updated stats command, updated tomb command (was rip)
+
+1.4-V2 - Start Script
+
+1.5 - Prerequisites prepackaged!
+
+1.6 - New feature - Prerequisite installer
+
+V2 1.0 - Complete bot rewrite, massive stability improvements and more!
